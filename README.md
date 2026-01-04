@@ -18,7 +18,7 @@ They generate more clicks
 
 They drive more sales
 
-They create more addiction
+This further enhances its addictive properties.
 
 But they don't ask:
 
