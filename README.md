@@ -80,8 +80,8 @@ Is not ready for a presentation at all.
 
 But if it works correctly, it can draw a small but significant line in the human-AI relationship.
 
-If that line is important to you,
-everything else is secondary.
-These notes are shared to encourage careful reflection and critique.
-Thoughtful discussion welcome via GitHub Discussions or Issues.
+If these lines are important to you,
+everything else takes a backseat.
+These notes are shared to encourage careful consideration and critical thinking.
+We welcome thoughtful discussions through GitHub discussions or issues.
 
