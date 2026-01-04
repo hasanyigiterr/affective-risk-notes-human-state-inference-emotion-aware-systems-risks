@@ -82,3 +82,4 @@ But if it works correctly, it can draw a small but significant line in the human
 
 If that line is important to you,
 everything else is secondary.
+Thoughtful discussion welcome via GitHub Discussions or Issues.
